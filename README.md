@@ -70,14 +70,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthBhambi&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Reach out
 
 If you’re working on **embedded systems, FPGAs, robotics, or hardware projects** and think I could help (or learn something), feel free to reach out on LinkedIn or email!
