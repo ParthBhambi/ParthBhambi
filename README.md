@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 1st-year **Computer Engineering + PEY Co-op** at the **University of Toronto**
+- 🎓 2nd-year **Computer Engineering + PEY Co-op** at the **University of Toronto**
 - 🤖 Member of the **UTRA Autonomous Rover** embedded subteam  
 - 🏎️ Former electrical subteam member at **UT Formula Racing (UTFR)**
 - 🔌 Interested in **embedded firmware, FPGA/digital design, and robotics/hardware systems**
