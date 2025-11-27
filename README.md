@@ -24,7 +24,7 @@
 - 🤖 Member of the **UTRA Autonomous Rover** embedded subteam  
 - 🏎️ Former electrical subteam member at **UT Formula Racing (UTFR)**
 - 🔌 Interested in **embedded firmware, FPGA/digital design, and robotics/hardware systems**
-- 📚 Currently exploring **Verilog, C/C++**, and better ways to build reliable hardware–software systems
+- 📚 Currently exploring **Verilog, C/C++**, and better ways to build reliable hardware-software systems
 
 ---
 
